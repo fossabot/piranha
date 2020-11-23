@@ -7,6 +7,7 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=piranhacloud_piranha&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=piranhacloud_piranha)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=piranhacloud_piranha&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=piranhacloud_piranha)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=piranhacloud_piranha&metric=security_rating)](https://sonarcloud.io/dashboard?id=piranhacloud_piranha)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FThihup%2Fpiranha.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FThihup%2Fpiranha?ref=badge_shield)
 
 The Piranha Project delivers you with Cloud ready containers and useful add-on / 
 integration modules.
@@ -41,3 +42,7 @@ Note if you file issues or answer questions on the issue tracker and/or issue
 pull requests you agree that those contributions will be owned by Manorrock.com
 and that Manorrock.com can use those contributions in any manner Manorrock.com
 so desires.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FThihup%2Fpiranha.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FThihup%2Fpiranha?ref=badge_large)
